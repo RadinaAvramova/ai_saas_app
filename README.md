@@ -6,16 +6,11 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
 
 
 ## <a name="introduction">🤖 Introduction</a>
 
 Build an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. This project can be a guide for your next AI image tool and a boost to your portfolio. 
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -61,8 +56,6 @@ If you're getting started and need assistance or face any bugs, join our active 
 👉 **Responsive UI/UX**: A seamless experience across devices with a user-friendly interface
 
 
-and many more, including code architecture and reusability 
-
 ## <a name="quick-start">🤸 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
@@ -78,7 +71,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/imaginify.git
+git clone https://github.com/RadinaAvramova/imaginify.git
 cd imaginify
 ```
 
@@ -2493,6 +2486,4 @@ export default Profile;
 ## <a name="links">🔗 Links</a>
 
 Public Assets used in the project can be found [here](https://drive.google.com/file/d/1uv1zyCjbYBQE9qnwh2snwO0NBgoop5gz/view?usp=sharing)
-
-## <a name="more">🚀 More</a>
 
